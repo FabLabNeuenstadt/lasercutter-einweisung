@@ -1,23 +1,12 @@
 Lasercuter Einweisung
 =====================
 
-Einweisung des [FAU FabLab](https://fablab.fau.de) für den Lasercuter [Cameo Zing 6030](https://fablab.fau.de/tool/lasercutter).
+Einweisung des [FabLab Neuenstadt](https://www.fablab-neuenstadt.de) für den Lasercuter [Sabko 6040 80 Watt](https://wiki.fablab-neuenstadt.de/Kategorie:Lasercutter).
 
 Die neueste Version gibt es hier zum Download als PDF:
-* [Einweisung](https://brain.fablab.fau.de/build/lasercutter-einweisung/Einweisung_Lasercutter.pdf)
-* [Einweisungsliste](https://brain.fablab.fau.de/build/lasercutter-einweisung/Einweisungsliste_Lasercutter.pdf)
+* [Einweisung (fehlt noch)](https://)
+* [Einweisungsliste(fehlt noch)](https://)
 
-auschecken
-----------
-
-```bash
-git clone --recursive git@github.com:fau-fablab/lasercutter-einweisung.git
-```
-
-Technische Details zum Buildserver siehe auf macgyver `/home/buildserver/README`
-
-[![Build Status](https://brain.fablab.fau.de/build/lasercutter-einweisung/status.svg)](https://brain.fablab.fau.de/build/lasercutter-einweisung/)
-[![TODOs](https://brain.fablab.fau.de/build/lasercutter-einweisung/status-todos.svg)](https://brain.fablab.fau.de/build/lasercutter-einweisung/)
 
 Lizenz
 ------
